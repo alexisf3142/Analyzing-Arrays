@@ -1,2 +1,2 @@
 # Analyzing-Arrays
-This program reads a user input array of up to 25 integers, and finds size, maximum value, mean and the remainder, and mode(s) 
+This program will read in user input of an integer array (up to 25 values). The program will them compute and display the size, maximum value, integer mean (and the remainder), the mode and a simple graph indicating the frequency of each value. 
